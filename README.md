@@ -18,9 +18,10 @@ A driver-assist app that helps drivers stay on schedule and navigate routes effi
 </p>
 
 #### Bazaar Bargains – Digital Retail Application
+#### Bazaar Bargains – Digital Retail Application
 An intuitive marketplace for browsing and purchasing apparel products.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b7e3d8fa-24df-4130-b22c-359bb99d9714" width="300" alt="Bazaar Bargains Screenshot">
+  <img src="https://github.com/user-attachments/assets/b7e3d8fa-24df-4130-b22c-359bb99d9714" width="200" alt="Bazaar Bargains Screenshot">
 </p>
 
 #### Smart IoT Farming Application
