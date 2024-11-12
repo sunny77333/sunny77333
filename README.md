@@ -14,7 +14,12 @@ BusFlow
 <img width="265" alt="image" src="https://github.com/user-attachments/assets/ecd7f743-17f7-4894-b437-2169ca47e856">
 
 Bazaar Bargains 
-![image](https://github.com/user-attachments/assets/4e821a53-a52a-4026-8163-66921344ab74)
+![bbphoto](https://github.com/user-attachments/assets/b7e3d8fa-24df-4130-b22c-359bb99d9714)
+
+**Smart Iot Farming Application
+<img width="127" alt="image" src="https://github.com/user-attachments/assets/9c2cfd7d-898e-402b-83af-187aed4c5ec0">
+<img width="142" alt="image" src="https://github.com/user-attachments/assets/058a97fa-57b4-482d-a728-9164a643c892">
+<img width="113" alt="image" src="https://github.com/user-attachments/assets/e36c0935-19cd-4dfb-a158-72bd55df29be">
 
 
 
