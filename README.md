@@ -22,7 +22,7 @@ A driver-assist app that helps drivers stay on schedule and navigate routes effi
 A modern note-taking application that allows users to create, edit, and manage notes with a clean and responsive interface.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/15961e29-5365-47d0-9326-c4e2cdc8f191" width="380" alt="ThinkSpace Screenshot 1" />
+  <img src="https://github.com/user-attachments/assets/15961e29-5365-47d0-9326-c4e2cdc8f191" width="500" alt="ThinkSpace Screenshot 1" />
   <img src="https://github.com/user-attachments/assets/f49b06f4-d373-4cd3-a1d8-7456381d9a14" width="380" alt="ThinkSpace Screenshot 2" />
   <img src="https://github.com/user-attachments/assets/cc80c306-dd6e-428a-a65d-5891d7a2e939" width="380" alt="ThinkSpace Screenshot 3" />
 </p>
@@ -44,7 +44,7 @@ An intuitive marketplace for browsing and purchasing apparel products.
 
 ### 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/sanurag-maini-260666283/)  
-- [Email](mailto:sanuragmaini7733@gmail.com)
+- [Email](mailto:sanuragmaini22@gmail.com)
 
 ### ⚡ Fun Fact
 When I'm not coding, you can catch me on the basketball court or experimenting with new tech gadgets!
