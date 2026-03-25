@@ -22,9 +22,9 @@ A driver-assist app that helps drivers stay on schedule and navigate routes effi
 A modern note-taking application that allows users to create, edit, and manage notes with a clean and responsive interface.
 
 <p align="center">
-<img width="752" height="547" alt="Screenshot 2026-03-25 at 5 24 56 PM" src="https://github.com/user-attachments/assets/f49b06f4-d373-4cd3-a1d8-7456381d9a14" />
-<img width="878" height="626" alt="Screenshot 2026-03-25 at 5 24 50 PM" src="https://github.com/user-attachments/assets/cc80c306-dd6e-428a-a65d-5891d7a2e939" />
-<img width="1468" height="778" alt="Screenshot 2026-03-25 at 5 24 44 PM" src="https://github.com/user-attachments/assets/15961e29-5365-47d0-9326-c4e2cdc8f191" />
+<img width="280" height="547" alt="Screenshot 2026-03-25 at 5 24 56 PM" src="https://github.com/user-attachments/assets/f49b06f4-d373-4cd3-a1d8-7456381d9a14" />
+<img width="280" height="626" alt="Screenshot 2026-03-25 at 5 24 50 PM" src="https://github.com/user-attachments/assets/cc80c306-dd6e-428a-a65d-5891d7a2e939" />
+<img width="280" height="778" alt="Screenshot 2026-03-25 at 5 24 44 PM" src="https://github.com/user-attachments/assets/15961e29-5365-47d0-9326-c4e2cdc8f191" />
 </p>
 
 #### Smart IoT Farming Application
